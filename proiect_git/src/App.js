@@ -17,6 +17,8 @@ function App() {
         >
           Learn React with Telacad
           <h1>Salut din commit 1</h1>
+          <h2>Salut din commit 2</h2>
+        
         </a>
       </header>
     </div>
