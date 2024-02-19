@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React with Telacad
+          <h1>Salut din commit 1</h1>
         </a>
       </header>
     </div>
